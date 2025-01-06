@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\PlateDetectDbNET</_PublishTargetUrl>
+    <History>True|2024-12-31T06:19:22.8384455Z||;True|2024-12-31T09:12:02.2156005+03:00||;True|2024-12-31T08:16:12.8293704+03:00||;False|2024-12-31T08:15:41.4554252+03:00||;False|2024-12-31T08:15:35.2059060+03:00||;True|2024-12-26T16:50:07.4350006+03:00||;True|2024-12-26T16:46:41.7334979+03:00||;False|2024-12-26T16:46:01.8749842+03:00||;False|2024-12-26T16:45:48.5343097+03:00||;True|2024-12-26T16:17:47.5891878+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

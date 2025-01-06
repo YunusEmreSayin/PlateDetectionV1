@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.PlateDetectMainController",
+    "Method": "Index",
+    "RelativePath": "api/PlateDetectMain",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.PlateDetectMainController",
+    "Method": "GetOperations",
+    "RelativePath": "api/PlateDetectMain/getOperations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PlateId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Plate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerSurname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RegisterDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PlateDetectionV1.model.Operation, PlateDetectDatabaseService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.PlateDetectMainController",
+    "Method": "GetPlates",
+    "RelativePath": "api/PlateDetectMain/getPlates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "PlateDetectionV1.model.PlateInfo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.PlateDetectMainController",
+    "Method": "InsertOperation",
+    "RelativePath": "api/PlateDetectMain/insertoperation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "operation",
+        "Type": "PlateDetectionV1.model.Operation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.PlateDetectMainController",
+    "Method": "InsertPlateInfo",
+    "RelativePath": "api/PlateDetectMain/insertplateinfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plateInfo",
+        "Type": "PlateDetectionV1.model.PlateInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PlateDetectDatabaseService.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PlateDetectDatabaseService.WeatherForecast, PlateDetectDatabaseService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|c:\\users\\yunus\\source\\repos\\platedetectionv1\\platedetectionv1\\frmhareketsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmhareketsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\frmhareketsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmhareketsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\platedetectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\platedetectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|c:\\users\\yunus\\source\\repos\\platedetectionv1\\platedetectionv1\\frmoperasyonduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmoperasyonduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\frmoperasyonduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmoperasyonduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\platedetectionv1\\frmplakakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmplakakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|c:\\users\\yunus\\source\\repos\\platedetectionv1\\platedetectionv1\\frmplakakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmplakakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|c:\\users\\yunus\\source\\repos\\platedetectionv1\\platedetectionv1\\frmoperasyonduzenle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\frmoperasyonduzenle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|c:\\users\\yunus\\source\\repos\\platedetectionv1\\platedetectionv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E13376-D639-4690-85C1-2CCEEC4A8E98}|PlateDetectionV1\\PlateDetectionV1.csproj|solutionrelative:platedetectionv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlateDetectDal.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\PlateDetectDal.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\PlateDetectDal.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\PlateDetectDal.cs",
+              "RelativeToolTip": "PlateDetectionV1\\PlateDetectDal.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:19:19.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.cs",
+              "RelativeToolTip": "PlateDetectionV1\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:52:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHareketSorgula.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\frmHareketSorgula.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\frmHareketSorgula.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\frmHareketSorgula.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PlateDetectionV1\\frmHareketSorgula.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:59:48.642Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PlateDetectionV1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:39:47.299Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHareketSorgula.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\frmHareketSorgula.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\frmHareketSorgula.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\frmHareketSorgula.cs",
+              "RelativeToolTip": "PlateDetectionV1\\frmHareketSorgula.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:54:20.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPlakaKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmPlakaKayit.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\FrmPlakaKayit.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmPlakaKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PlateDetectionV1\\FrmPlakaKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:24:47.786Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmOperasyonDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PlateDetectionV1\\FrmOperasyonDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:45:41.095Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmOperasyonDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "RelativeToolTip": "PlateDetectionV1\\FrmOperasyonDuzenle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T19:05:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPlakaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmPlakaKayit.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\FrmPlakaKayit.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmPlakaKayit.cs",
+              "RelativeToolTip": "PlateDetectionV1\\FrmPlakaKayit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:46:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOperasyonDuzenle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.Designer.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\FrmOperasyonDuzenle.Designer.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\FrmOperasyonDuzenle.Designer.cs",
+              "RelativeToolTip": "PlateDetectionV1\\FrmOperasyonDuzenle.Designer.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwMwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:25:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PlateDetectionV1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\PlateDetectionV1\\PlateDetectionV1\\Form1.Designer.cs",
+              "RelativeToolTip": "PlateDetectionV1\\Form1.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:35:04.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

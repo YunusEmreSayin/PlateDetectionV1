@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EX+Z/GdKOhRH013kfMO2s5AFj+o/Ajc7TUwB/RRKnlo=",
+  "Source": "PlateDetectDatabaseService",
+  "BasePath": "_content/PlateDetectDatabaseService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
